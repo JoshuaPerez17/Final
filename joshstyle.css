@@ -1,0 +1,49 @@
+
+	h1 {
+	color:black;
+	text-align: center;
+	}
+	
+	p{
+	font-family: verdana;
+	font-size: 20px:
+	}
+	
+	ul{
+		font-family: verdana;
+		font-size: 15px
+	}
+	
+	table {
+		border-width:1px;
+		border-style:solid;
+		border-color: red;
+		border-collapse: collapse;
+		width: 50%;
+	}
+	
+	table, th, td {
+		border: 1px solid red;
+		pading: 5px;
+		text-align:center;
+	}
+	
+	li{
+		font-family: verdana;
+		font-size: 15px;
+	}
+	
+	td{
+		font-family: verdana;
+		font-size: 15px;
+	}
+	
+	hr {
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 1px;
+	}
